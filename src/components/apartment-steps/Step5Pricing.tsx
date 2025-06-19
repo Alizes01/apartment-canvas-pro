@@ -1,10 +1,9 @@
-
 import React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Label } from '@/components/ui/label';
-import { Dol larSign } from 'lucide-react';
+import { DollarSign } from 'lucide-react';
 
 interface Step5Props {
   data: any;
